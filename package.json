@@ -1,7 +1,7 @@
 {
   "name": "mern-tutoriel",
   "version": "1.0.0",
-  "description": "Goalsetter app for youtube tutorial",
+  "description": "Goalsetter app for youtube tuto",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
@@ -14,9 +14,6 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
-    "mongose": "^0.0.2-security"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
+    "mongoose": "^6.7.2"
   }
 }
